@@ -1,0 +1,16 @@
+PODS:
+  - BasicADTLibrary (0.1.0)
+
+DEPENDENCIES:
+  - BasicADTLibrary (from `../`)
+
+EXTERNAL SOURCES:
+  BasicADTLibrary:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BasicADTLibrary: 9e5e552be679da573b9cbc6a8528c30a5f5ac5c9
+
+PODFILE CHECKSUM: 3736c3f37b84a3ae88d942b17c714bdbc4758c0d
+
+COCOAPODS: 1.5.3

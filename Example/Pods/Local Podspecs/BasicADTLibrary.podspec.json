@@ -1,0 +1,22 @@
+{
+  "name": "BasicADTLibrary",
+  "version": "0.1.0",
+  "summary": "A short description of BasicADTLibrary.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/JTantra/BasicADTLibrary",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "JTantra": "tantra.anthony@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/JTantra/BasicADTLibrary.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "BasicADTLibrary/Classes/**/*"
+}
