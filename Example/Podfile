@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'BasicADTLibrary_Example' do
+  pod 'BasicADTLibrary', :path => '../'
+
+  target 'BasicADTLibrary_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
